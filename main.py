@@ -71,7 +71,4 @@ if d > e and d == 20:
 if e > d and e < 100:
     print('ketvirta salyga')
 
-
-
-
 print("update")
