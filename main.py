@@ -72,3 +72,7 @@ if e > d and e < 100:
     print('ketvirta salyga')
 
 print("update")
+
+print("to do list:")
+print("a....")
+print("m....")
