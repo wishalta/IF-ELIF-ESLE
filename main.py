@@ -71,5 +71,7 @@ if d > e and d == 20:
 if e > d and e < 100:
     print('ketvirta salyga')
 
-git config --global user.email "rolandas.lebed@gmail.com"
-git config --global user.name "wishalta"
+
+
+
+print("update")
